@@ -1,4 +1,4 @@
-# Introduction to Digital and Inbound Marketing Essentials
+# Introduction to Prefect
 
 ### Introduction
 Marketing is the foundation of how businesses connect with customers, build awareness, and ultimately drive sales. It involves understanding customer needs, creating valuable offerings, and ensuring that these offerings reach the right audience at the right time. In today’s business landscape, marketing is vital for companies of all sizes, helping them achieve crucial goals like establishing brand recognition and maintaining a competitive edge.
