@@ -182,3 +182,11 @@ Prefect is designed with privacy in mind:
 Prefect is a powerful, flexible, and beginner-friendly orchestration tool for managing workflows. It helps simplify the creation and management of complex pipelines by introducing well-designed abstractions like tasks, flows, and states. Its hybrid execution model ensures control and security while still benefiting from rich orchestration features.
 
 Whether you're building data pipelines, machine learning workflows, or automating system tasks, Prefect offers a modern approach to keeping everything reliable, observable, and easy to manage.
+
+Refer the following links for detailed understanding:
+
+## References
+1) https://www.prefect.io/
+2) https://dataknowsall.com/blog/prefectintro.html
+3) https://www.youtube.com/watch?v=D5DhwVNHWeU
+4) https://www.youtube.com/watch?v=EYs5xotSOT0
