@@ -148,7 +148,6 @@ bin/kafka-console-consumer.sh --topic test-topic --bootstrap-server localhost:90
 
 ### Books
 - [Kafka: The Definitive Guide (O’Reilly)](https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/)  
-- [Mastering Kafka Streams and ksqlDB](https://www.confluent.io/resources/ebooks/mastering-kafka-streams-and-ksqldb/)
 
 ### Tutorials and Articles
 - [Confluent Kafka Tutorials](https://developer.confluent.io/learn-kafka/)  
