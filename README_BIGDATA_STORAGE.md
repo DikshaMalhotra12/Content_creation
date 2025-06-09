@@ -1,11 +1,11 @@
 
-# 📚 Introduction to Data Storage for Big Data
+# Introduction to Data Storage for Big Data
 
 Big Data systems deal with **massive volumes, velocity, and variety of data**. One of the foundational aspects of any Big Data architecture is the choice of **data storage technologies**. This document introduces key concepts, types of storage, and reference materials to dive deeper.
 
 ---
 
-## 🌟 What is Big Data Storage?
+##  What is Big Data Storage?
 
 Big Data Storage refers to **technologies and architectures** designed to store, manage, and retrieve **large-scale datasets** efficiently.
 
@@ -18,7 +18,7 @@ Big Data Storage refers to **technologies and architectures** designed to store,
 
 ---
 
-## 🗃️ Types of Storage Systems
+##  Types of Storage Systems
 
 ### 1. **Distributed File Systems**
 - Designed to store data across a cluster of machines
@@ -57,7 +57,7 @@ Big Data Storage refers to **technologies and architectures** designed to store,
 
 ---
 
-## 🔄 Data Storage Architectures
+##  Data Storage Architectures
 
 - **On-premises**: Traditional servers in data centers
 - **Cloud-native**: Fully managed, scalable cloud storage
@@ -65,7 +65,7 @@ Big Data Storage refers to **technologies and architectures** designed to store,
 
 ---
 
-## 🛠️ Key Considerations When Choosing Storage
+##  Key Considerations When Choosing Storage
 
 | Consideration  | Description |
 |----------------|-------------|
@@ -78,7 +78,7 @@ Big Data Storage refers to **technologies and architectures** designed to store,
 
 ---
 
-## 🚀 Example Big Data Storage Stack
+##  Example Big Data Storage Stack
 
 | Layer | Example |
 |-------|---------|
@@ -89,7 +89,7 @@ Big Data Storage refers to **technologies and architectures** designed to store,
 
 ---
 
-## 📖 Recommended Reading & References
+##  Recommended Reading & References
 
 ### Foundational Concepts
 - [Big Data - Wikipedia](https://en.wikipedia.org/wiki/Big_data)
@@ -115,10 +115,10 @@ Big Data Storage refers to **technologies and architectures** designed to store,
 
 ---
 
-## 🚧 Final Notes
+## Final Notes
 
 Big Data storage is an evolving field. Your architecture depends on **your specific use case** — whether it's real-time analytics, archival storage, machine learning pipelines, or business intelligence.
 
-👉 For **hands-on learning**, start by setting up a local Hadoop cluster, or explore cloud-based **Data Lake** and **Data Warehouse** solutions with free tiers from AWS, Google Cloud, or Azure.
+ For **hands-on learning**, start by setting up a local Hadoop cluster, or explore cloud-based **Data Lake** and **Data Warehouse** solutions with free tiers from AWS, Google Cloud, or Azure.
 
 ---
