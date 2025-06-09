@@ -156,7 +156,6 @@ bin/kafka-console-consumer.sh --topic test-topic --bootstrap-server localhost:90
 
 ### Online Courses
 - [Udemy - Apache Kafka Series](https://www.udemy.com/course/apache-kafka/)  
-- [Coursera - Confluent Kafka Courses](https://www.coursera.org/learn/apache-kafka)
 
 ---
 
