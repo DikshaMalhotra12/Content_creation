@@ -104,8 +104,6 @@ Big Data Storage refers to **technologies and architectures** designed to store,
 - [Apache Cassandra](https://cassandra.apache.org/)
 - [Neo4j Graph Database](https://neo4j.com/)
 
-### Data Warehousing
-- [Snowflake vs Redshift vs BigQuery](https://www.databricks.com/blog/2022/07/14/snowflake-vs-bigquery-vs-redshift.html)
 
 ### Cloud Storage
 - [Amazon S3](https://aws.amazon.com/s3/)
