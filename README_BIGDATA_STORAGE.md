@@ -97,7 +97,6 @@ Big Data Storage refers to **technologies and architectures** designed to store,
 - [Hadoop Distributed File System](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
 
 ### Distributed File Systems
-- [Google File System Paper (GFS)](https://research.google/pubs/archive/05162.pdf)
 - [HDFS Architecture Guide](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
 
 ### NoSQL Databases
