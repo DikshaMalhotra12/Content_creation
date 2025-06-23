@@ -1,12 +1,12 @@
 
-# 🛠️ Solution: Retail Data Transformation Pipeline Using DBT and Prefect
+#  Solution: Retail Data Transformation Pipeline Using DBT and Prefect
 
 ## Overview
 This solution implements an automated and reproducible data pipeline using **DBT** for data transformation and **Prefect** for orchestration. It processes the [Global Super Store dataset](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset) to enable analytics for a retail business.
 
 ---
 
-## 1. 🧱 Environment Setup
+## 1. Environment Setup
 
 ### 1.1 Create Virtual Environment (optional)
 ```bash
@@ -21,7 +21,7 @@ pip install pandas sqlalchemy prefect dbt-core dbt-postgres
 
 ---
 
-## 2. 🗃️ Load Raw Data into SQLite/Postgres
+## 2. Load Raw Data into SQLite/Postgres
 
 We ingest the CSVs (`Orders.csv`, `Returns.csv`, `People.csv`) into a database (SQLite or PostgreSQL) using Python and SQLAlchemy.
 
@@ -45,7 +45,7 @@ people.to_sql("raw_people", engine, if_exists="replace", index=False)
 
 ---
 
-## 3. 🧮 Create DBT Project
+## 3. Create DBT Project
 
 ### 3.1 Initialize Project
 ```bash
@@ -66,7 +66,7 @@ global_store_dbt:
 
 ---
 
-## 4. 📦 Create Models in DBT
+## 4. Create Models in DBT
 
 ### 4.1 Sources (in `models/src_raw.yml`)
 ```yaml
@@ -111,7 +111,7 @@ from {{ ref('stg_orders') }}
 
 ---
 
-## 5. 🧪 Run and Test DBT Models
+## 5.  Run and Test DBT Models
 
 ```bash
 dbt run
@@ -120,7 +120,7 @@ dbt test
 
 ---
 
-## 6. 🔁 Prefect Orchestration
+## 6. Prefect Orchestration
 
 ### 6.1 Define Tasks in Python
 ```python
@@ -163,7 +163,7 @@ if __name__ == "__main__":
 
 ---
 
-## 8. ✅ Output Deliverables
+## 8. Output Deliverables
 
 | Output                  | Description |
 |------------------------|-------------|
@@ -174,7 +174,7 @@ if __name__ == "__main__":
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 By combining **DBT's modular SQL transformations** with **Prefect's modern orchestration**, we created a reliable, scalable, and observable data pipeline tailored for retail analytics. This setup ensures:
 - Reproducibility
